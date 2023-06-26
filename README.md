@@ -2,7 +2,9 @@
 
 Basic Javascript exercise of creating an age counter
 
-![image](https://github.com/Jazib-Khan/Age-Counter/assets/57762628/22926f0f-e704-4f68-9fc3-82e40df1a74a)
-![image](https://github.com/Jazib-Khan/Age-Counter/assets/57762628/bf7a44e6-8e6c-40a9-84ea-7c6623b571fd)
-![image](https://github.com/Jazib-Khan/Age-Counter/assets/57762628/62c1c253-add3-4038-9cd0-a5a9945f2a17)
+![image](https://github.com/Jazib-Khan/Age-Counter/assets/57762628/cb211d49-b1ef-4774-af49-5b8b5448055c)
+
+![image](https://github.com/Jazib-Khan/Age-Counter/assets/57762628/cab259f2-4c2c-46d8-bee3-5d752e71a6ae)
+
+![image](https://github.com/Jazib-Khan/Age-Counter/assets/57762628/2823fd4e-2bb3-4872-8fe9-2e99bb427926)
 
